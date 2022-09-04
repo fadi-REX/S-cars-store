@@ -1,4 +1,4 @@
-# S-cars-store
+# S cars store
 <img src="icon.png" width="200px" >
 super cars ecommerce store vanilla JS using a content mangement system so that u can add products easy.
 
