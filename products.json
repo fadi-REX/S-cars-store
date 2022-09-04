@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "2005 ferrari fxx",
+        "price": 1816,
+        "image": { "fields": { "file": { "url": "./images/product-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Mercedes-Benz SLR McLaren 722",
+        "price": 750,
+        "image": { "fields": { "file": { "url": "./images/product-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Porsche Carrera GT",
+        "price": 440,
+        "image": { "fields": { "file": { "url": "./images/product-3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Lamborghini Aventador",
+        "price": 400,
+        "image": { "fields": { "file": { "url": "./images/product-4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Land Rover Defender",
+        "price": 66,
+        "image": { "fields": { "file": { "url": "./images/product-5.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "ford mustang gt 2020",
+        "price": 37,
+        "image": { "fields": { "file": { "url": "./images/product-6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "bentley flying spur",
+        "price": 198,
+        "image": { "fields": { "file": { "url": "./images/product-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "nissan gtr 2020",
+        "price": 129,
+        "image": { "fields": { "file": { "url": "./images/product-8.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "McLaren 720S",
+        "price": 299,
+        "image": { "fields": { "file": { "url": "./images/product-9.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "bugatti chiron",
+        "price": 3300,
+        "image": { "fields": { "file": { "url": "./images/product-10.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Maserati MC12",
+        "price": 670,
+        "image": { "fields": { "file": { "url": "./images/product-11.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Lamborghini Huracán Performante",
+        "price": 274,
+        "image": { "fields": { "file": { "url": "./images/product-12.webp" } } }
+      }
+    }
+  ]
+}
